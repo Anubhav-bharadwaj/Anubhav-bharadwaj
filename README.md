@@ -13,11 +13,13 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anubhav-bharadwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+# 📊 GitHub Stats:
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Anubhav-bharadwaj&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anubhav-bharadwaj&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-bharadwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anubhav-bharadwaj&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-bharadwaj&layout=compact&theme=tokyonight)
 
 ---
 
