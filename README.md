@@ -21,6 +21,4 @@
 
 # 💼 Portfolio
 
-# Portfolio
-
-[![Visit Website](https://img.shields.io/badge/Visit-Portfolio-black?style=for-the-badge&logo=vercel)](https://anubhavbharadwaj.vercel.app/)
+🌐 [Visit Portfolio Website](https://anubhavbharadwaj.vercel.app/)
