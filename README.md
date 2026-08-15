@@ -12,6 +12,9 @@
 - Machine Learning
 - System Design
 
+#📊 GitHub Stats
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anubhav-bharadwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-bharadwaj&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-bharadwaj&theme=tokyonight&hide_border=true" /> </div>
+
 # 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anubhavbharadwaj.2006@gmail.com)
