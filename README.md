@@ -56,7 +56,8 @@
 - System Design
 
 # 📊 GitHub Stats
-<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anubhav-bharadwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-bharadwaj&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com/?user=Anubhav-bharadwaj&theme=tokyonight&hide_border=true" /> </div>
+
+<div align="center"> <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Anubhav-bharadwaj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-bharadwaj&layout=compact&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-bharadwaj&theme=tokyo-night&hide_border=true&area=true" /> </div>
 
 # 🌐 Socials:
 
