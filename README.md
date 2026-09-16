@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on strengthening my programming fundamentals  <br>🌱 I’m currently learning Python, Data Science, and Machine Learning  <br>🤝 I’m looking to collaborate on beginner-friendly open-source projects  <br>🫂 I’m looking for help with DSA and real-world project building  <br>💬 Ask me about Python basics and CS fundamentals  <br>⚡ Fun fact: I enjoy breaking things just to understand how they work
+🚀 Building AI-powered applications, intelligent automation systems, and data-driven solutions  <br>🤖 Exploring  Machine Learning, Generative AI and Multi-Agent Systems <br>💻 Working with Python, FastAPI, Streamlit, SQL, and modern web technologies  <br>🏆 Passionate about hackathons, real-world problem solving, and innovative product development  <br>📈 Turning ideas into practical projects through experimentation, iteration, and continuous learning <br>🌐 Passionate about creating clean, user-friendly, and impactful web experiences <br>⚡ Fun fact: I enjoy breaking things just to understand how they work
 
 ## 💻 Tech Stack
 
