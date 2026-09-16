@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/bot-mascot.svg" width="320" alt="floating bot" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on strengthening my programming fundamentals  <br>🌱 I’m currently learning Python, Data Science, and Machine Learning  <br>🤝 I’m looking to collaborate on beginner-friendly open-source projects  <br>🫂 I’m looking for help with DSA and real-world project building  <br>💬 Ask me about Python basics and CS fundamentals  <br>⚡ Fun fact: I enjoy breaking things just to understand how they work
 
